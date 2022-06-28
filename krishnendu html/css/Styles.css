@@ -1,0 +1,21 @@
+<style>
+body{
+    background-color: blueviolet;
+}
+image{
+    background-color: red;
+}
+h2{
+    color: brown;
+}
+h3{
+    color: brown;
+}
+hr{
+    border-style: dotted;
+    border-top-style: dashed;
+    border-color: aqua;
+    border-width: 20px;
+    width: 30%;
+}
+</style>

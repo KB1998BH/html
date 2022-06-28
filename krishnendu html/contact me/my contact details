@@ -1,0 +1,15 @@
+<h3>contact details</h3>
+            <p>Vill- Gopegarg,Dist- paschim Medinipur,west Bengal.</p>
+            <P>8768144321</P>
+            <p>my email</p>
+            <hr>
+            <form class=" " action="index.html" method="post">
+            <form = "krishnendubhunia0098@gmail.com" method = "post" enctype="text/plain">
+                <label>Your Name;</label>
+                <Input type = "text" name ="Your Name" value = " "><br>
+                    <label>Your Email</label>
+                    <Input type ="text" name="Your Email"vaiue=" "><br>
+                        <label>Your Message</label>
+                        <textarea = " Your Message" rows="10" col="30"></textarea><br>
+                        <Input type ="Submit" name="">
+            </form>
